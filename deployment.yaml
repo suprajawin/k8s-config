@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: hiring-app-container
-        image: omer2k1/hiring-app:latest
+        image: nikks171/hiringapp-tomcat:latest
         ports:
         - containerPort: 8080
